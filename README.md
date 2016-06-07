@@ -5,8 +5,11 @@
 2. MySQL
 3. Restful
 4. Bootstrap&jQuery
-## 课程教学视频
+
+##课程视频
+名称              | 地址
+------------      | ------------- 
 业务分析与DAO实现 | http://www.imooc.com/learn/587
-Service层实现 | http://www.imooc.com/learn/587
-WEB层实现 | http://www.imooc.com/learn/587
-并发优化 | http://www.imooc.com/learn/587
+Service层实现     | http://www.imooc.com/learn/587
+WEB层实现         | http://www.imooc.com/learn/587
+并发优化          | http://www.imooc.com/learn/587
