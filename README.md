@@ -20,6 +20,6 @@
 名称              | 地址
 ------------      | ------------- 
 业务分析与DAO实现 | http://www.imooc.com/learn/587
-Service层实现     | http://www.imooc.com/learn/587
-WEB层实现         | http://www.imooc.com/learn/587
-并发优化          | http://www.imooc.com/learn/587
+Service层实现     | http://www.imooc.com/learn/631
+WEB层实现         | http://www.imooc.com/learn/630
+并发优化          | http://www.imooc.com/learn/632
